@@ -1,3 +1,2 @@
 apache/rocketmq:4.9.6
-apache/rocketmq:4.9.6
-apacherocketmq/rocketmq-dashboard
+openresty/openresty:1.21.4.1-2-focal
