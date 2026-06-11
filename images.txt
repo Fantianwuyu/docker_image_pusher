@@ -1,1 +1,3 @@
-minio/minio:latest
+gitlab/gitlab-ce:16.11
+gitlab/gitlab-ce:17.11
+gitlab/gitlab-ce:18.11
