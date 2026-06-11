@@ -1,6 +1,1 @@
-zilliz/attu:v2.6.1
-zilliz/attu:v2.6.2
-zilliz/attu:v2.6
-zilliz/attu:v2
-zilliz/attu:latest
-
+gitlab/gitlab-ce:latest
