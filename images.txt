@@ -1,2 +1,2 @@
-langgenius/dify:latest
+langgenius/dify:v1.16.1
 
