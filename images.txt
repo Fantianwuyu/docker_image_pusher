@@ -1,2 +1,5 @@
-python:3.12-slim-bookworm
-node:22.22.1-alpine
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-agent-local-sandbox:1.16.1
+langgenius/dify-plugin-daemon:0.6.10-local
+certbot/certbot
+ubuntu/squid:latest
