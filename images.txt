@@ -1,2 +1,1 @@
-langgenius/dify:v1.16.1
-
+python:3.12-slim-bookworm
