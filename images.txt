@@ -3,3 +3,4 @@ langgenius/dify-agent-local-sandbox:1.16.1
 langgenius/dify-plugin-daemon:0.6.10-local
 certbot/certbot
 ubuntu/squid:latest
+busybox:latest
